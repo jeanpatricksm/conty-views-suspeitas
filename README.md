@@ -110,5 +110,4 @@ Semente `20260601`, 1200 séries (750 legítimas, 450 suspeitas).
 
 ## Uso de IA
 
-<!-- revise e ajuste com as suas palavras antes de enviar -->
-O código, o gerador de dataset, os testes e este README foram escritos com o Claude (Claude Code). Eu revisei os sinais e os limiares, os cenários do dataset e o caso em que o classificador não acusa, e rodei `npm test`, `npm run typecheck` e `npm run evaluate`.
+Usei IA (Claude Code) pra me ajudar a entender o problema, analisar as regras e implementar a solução. Revisei o código, as decisões descritas aqui e rodei os testes pra confirmar.
